@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PrimeiroApp</string>
+    <string name="button_send">Olá mundo!</string>
+</resources>
