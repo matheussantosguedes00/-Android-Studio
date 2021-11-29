@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AppWelcome</string>
+    <string name="welcome">Welcome to my app</string>
+    <string name="texto2">Hello World!!</string>
+    <string name="image_description">Image!</string>
+</resources>
